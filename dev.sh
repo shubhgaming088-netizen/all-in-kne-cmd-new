@@ -73,7 +73,7 @@ while true; do
     render_ui
     read -r opt
     case $opt in
-        1) bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/vps/run.sh) ;;
+        1) bash <(curl -s https://raw.githubusercontent.com/shubhgaming088-netizen/all-in-kne-cmd-new/refs/heads/main/vps.sh) ;;
         2) bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/panel/run.sh) ;;
         3) bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/wings/run.sh) ;;
         4) bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/tools/run.sh) ;;

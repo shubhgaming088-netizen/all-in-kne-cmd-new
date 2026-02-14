@@ -35,7 +35,7 @@ render_ui() {
     get_metrics
     
     # --- TOP STATUS PILLS ---
-    echo -e " ${B_BLUE}${NC}${BG_SHADE}${W}   HOST: $CURRENT_HOST ${NC}${B_BLUE}${NC}  ${B_PURPLE}${NC}${BG_SHADE}${W}   $UPT ${NC}${B_PURPLE}${NC}  ${B_GREEN}${NC}${BG_SHADE}${W}   $DISK ${NC}${B_GREEN}${NC}"
+    echo -e " ${B_BLUE}${NC}${BG_SHADE}${W}   HOST: Powered By SleepyBuddy ${NC}${B_BLUE}${NC}  ${B_PURPLE}${NC}${BG_SHADE}${W}   $UPT ${NC}${B_PURPLE}${NC}  ${B_GREEN}${NC}${BG_SHADE}${W}   $DISK ${NC}${B_GREEN}${NC}"
     echo -e ""
 
     # --- CUSTOM LARGE BANNER (GRADIENT EFFECT) ---
